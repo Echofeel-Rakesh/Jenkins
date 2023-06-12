@@ -1,0 +1,53 @@
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: c2ng-customer-service-config
+  namespace: ecs-c2ng-prod
+  uid: 251d6065-8789-4780-9a5b-c3824a7bb261
+  resourceVersion: '1747600309'
+  creationTimestamp: '2022-02-25T09:32:20Z'
+  annotations:
+    kubectl.kubernetes.io/last-applied-configuration: >
+      {"apiVersion":"v1","data":{"application-override.properties":"spring.datasource.url=${DB_URL}\nspring.datasource.username=${dbusername}\nspring.datasource.password=${dbpassword}\nspring.jpa.properties.hibernate.default_schema=BDMASTERWORKSPACE\nmanagement.endpoints.web.exposure.include=refresh,bus-refresh,health\nlogging.level.org.hibernate.SQL=ERROR\nlogging.level.org.hibernate.stat=ERROR\nspring.jpa.show-sql=false\nlogging.level.com.bluedart.cosmat=ERROR\nspring.redis.host=redis-master.ecs-c2ng-prod\nspring.datasource.oracleucp.min-pool-size=1\nspring.datasource.oracleucp.max-pool-size=100\njwt.secret=${jwtsecret}\njwt.tokenValidity=${jwttokenvalidity}\nSSO.enabled=false\nspring.ldap.urls=ldap://kul-dc.dhl.com\nspring.ldap.username=${ldapusername}\nspring.ldap.password=${ldappassword}\nspring.ldap.base=DC=kul-dc,DC=dhl,DC=com"},"kind":"ConfigMap","metadata":{"annotations":{},"name":"c2ng-customer-service-config","namespace":"ecs-c2ng-prod"}}
+  managedFields:
+    - manager: oc
+      operation: Update
+      apiVersion: v1
+      time: '2022-03-11T05:20:34Z'
+      fieldsType: FieldsV1
+      fieldsV1:
+        'f:data': {}
+        'f:metadata':
+          'f:annotations': {}
+    - manager: Mozilla
+      operation: Update
+      apiVersion: v1
+      time: '2023-04-28T18:00:38Z'
+      fieldsType: FieldsV1
+      fieldsV1:
+        'f:data':
+          'f:application-override.properties': {}
+        'f:metadata':
+          'f:annotations':
+            'f:kubectl.kubernetes.io/last-applied-configuration': {}
+data:
+  application-override.properties: |-
+    spring.datasource.url=${DB_URL}
+    spring.datasource.username=${dbusername}
+    spring.datasource.password=${dbpassword}
+    spring.jpa.properties.hibernate.default_schema=BDMASTERWORKSPACE
+    management.endpoints.web.exposure.include=refresh,bus-refresh,health
+    logging.level.org.hibernate.SQL=ERROR
+    logging.level.org.hibernate.stat=ERROR
+    spring.jpa.show-sql=false
+    logging.level.com.bluedart.cosmat=ERROR
+    spring.redis.host=redis-master.ecs-c2ng-prod
+    spring.datasource.oracleucp.min-pool-size=1
+    spring.datasource.oracleucp.max-pool-size=100
+    jwt.secret=${jwtsecret}
+    jwt.tokenValidity=${jwttokenvalidity}
+    SSO.enabled=false
+    spring.ldap.urls=ldap://kul-dc.dhl.com
+    spring.ldap.username=${ldapusername}
+    spring.ldap.password=${ldappassword}
+    spring.ldap.base=DC=kul-dc,DC=dhl,DC=com

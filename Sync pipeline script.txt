@@ -1,0 +1,45 @@
+def choice=[]
+node {
+    choice = params["service"].split(",")     
+}
+pipeline {
+    agent {
+        kubernetes {
+            cloud "prod-prg"
+            inheritFrom 'jenkins-slave-prg'
+                 
+        }
+    }
+
+    stages {                              
+        stage('c2ng services'){  
+            steps{
+                withCredentials([string(credentialsId: 'dhlgittoken', variable: 'dhltoken'), string(credentialsId: 'pslgittoken', variable: 'psltoken')]) {
+					script{
+						def tests = [:]
+						for (service in choice) {
+							def service_name_list = service.split("-")
+							def service_name = service_name_list.join("_")
+							print(service_name)
+							tests["$service_name"] = {
+							stage("$service_name") {
+								def repo_name="c2ng_${service_name}.git"
+								def psl_repo_url="https://oauth2:${psltoken}@github.com/PSLGRP/${repo_name}"
+								def dhl_repo_url="https://oauth2:${dhltoken}@git.dhl.com/BlueDart/${repo_name}"
+								sh '''
+									rm -rf ''' +repo_name+ '''
+									git clone --bare ''' +psl_repo_url+ ''' 
+									cd ''' +repo_name+ '''
+									git push --mirror ''' +dhl_repo_url+ '''
+									cd ..
+								'''
+								}        
+							}
+						}
+						parallel tests
+					}
+				}
+            }
+        }                            
+    }
+}

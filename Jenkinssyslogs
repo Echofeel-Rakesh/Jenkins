@@ -1,0 +1,276 @@
+12:10:38  Started by user Rakesh Gohil (DHLeCS Blue Dart), external
+12:10:39  Obtained Jenkinsfile from git https://git.dhl.com/EnterprisePortal/echotodhlsync.git
+12:10:39  [Pipeline] Start of Pipeline
+12:10:39  [Pipeline] node
+12:10:54  Still waiting to schedule task
+12:10:54  ‘ANNAM_VISTA’ is reserved for jobs with matching label expression
+12:10:54  ‘AUEXP_Jenkins’ is reserved for jobs with matching label expression
+12:10:54  ‘Agent_MsgCvrg’ is reserved for jobs with matching label expression
+12:10:54  ‘Axe_uft_kundan’ is reserved for jobs with matching label expression
+12:10:54  ‘CFF-MYKULWVD0001072’ is reserved for jobs with matching label expression
+12:10:54  ‘CIAM-xa104ls30000094’ is reserved for jobs with matching label expression
+12:10:54  ‘CONNECT-10290-2’ is reserved for jobs with matching label expression
+12:10:54  ‘CONNECT-10290’ is reserved for jobs with matching label expression
+12:10:54  ‘CONNECT-3’ is reserved for jobs with matching label expression
+12:10:54  ‘CZCHOWN5023565’ is reserved for jobs with matching label expression
+12:10:54  ‘CZCHOWN5025394’ is reserved for jobs with matching label expression
+12:10:54  ‘CZCHOWSPC001278.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘CZCHOWSTC000371’ is reserved for jobs with matching label expression
+12:10:54  ‘CZCHOWSTC000391.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘CZCHOWVD0002167’ is reserved for jobs with matching label expression
+12:10:54  ‘CZCHOWVD0004049’ is reserved for jobs with matching label expression
+12:10:54  ‘CZCHOWVD0005815’ is reserved for jobs with matching label expression
+12:10:54  ‘CZCHOWVD0007115.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘CZSTLWSPC000168.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘DCVS_2.253.220.100’ is reserved for jobs with matching label expression
+12:10:54  ‘DCVS_2.253.225.25’ is reserved for jobs with matching label expression
+12:10:54  ‘DCVS_2.253.248.151’ is reserved for jobs with matching label expression
+12:10:54  ‘DEFRAWV50269’ is reserved for jobs with matching label expression
+12:10:54  ‘DHLPASS xa032ls10000025.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘DHLeComm_FLC_BAT’ is reserved for jobs with matching label expression
+12:10:54  ‘DREP-czchowstc002315’ is reserved for jobs with matching label expression
+12:10:54  ‘DSC BMPS- czcholstc000942.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘DSC BPMS  czcholsint2461.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘DSC BPMS czcholsint2462.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘DSC-BPMS-czcholstc003340.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘DSC-BPMS-czcholstc003344.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘DSC-BPMS-czcholstc003346.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘ESB-MYKULWVD0000578’ is reserved for jobs with matching label expression
+12:10:54  ‘FSI_Test_Branch node’ is reserved for jobs with matching label expression
+12:10:54  ‘FSI_WIN_AXE’ is reserved for jobs with matching label expression
+12:10:54  ‘FSI_windows’ is reserved for jobs with matching label expression
+12:10:54  ‘FinFw-CZCHOWVD0009501’ is reserved for jobs with matching label expression
+12:10:54  ‘Fortify_AXE’ is reserved for jobs with matching label expression
+12:10:54  ‘GBSBizagi-1- CZSTLWSPC000169’ is reserved for jobs with matching label expression
+12:10:54  ‘GBSBizagi-2- CZCHOWSPC002314’ is reserved for jobs with matching label expression
+12:10:54  ‘GBSBizagi-3- CZCHOWSPC002315’ is reserved for jobs with matching label expression
+12:10:54  ‘GBSBizagi-4- CZCHOWSPC002313’ is reserved for jobs with matching label expression
+12:10:54  ‘GBSBizagi-5- CZSTLWSPC000190’ is reserved for jobs with matching label expression
+12:10:54  ‘GBSBizagi-6- CZSTLWSPC000191’ is reserved for jobs with matching label expression
+12:10:54  ‘GBSBizagi-7- CZSTLWSPC000189’ is reserved for jobs with matching label expression
+12:10:54  ‘GBSBizagi-8-1-czchowspc000749’ is reserved for jobs with matching label expression
+12:10:54  ‘GBSBizagi-8-2-czstlwspc000252’ is reserved for jobs with matching label expression
+12:10:54  ‘GBSBizagi-8-3-CZCHOWSPC001329’ is reserved for jobs with matching label expression
+12:10:54  ‘GCCS_Dev’ is reserved for jobs with matching label expression
+12:10:54  ‘IMPA-czchowstc000985.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘IMS_Signing_node’ is reserved for jobs with matching label expression
+12:10:54  ‘INMAAWN53000143’ is reserved for jobs with matching label expression
+12:10:54  ‘ITS_DAST_Server’ is reserved for jobs with matching label expression
+12:10:54  ‘Jenkins_UFT_Hassan’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWN5011699’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWN52000356-MARS’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWN52000805’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWN52001053’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWN52001063’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWN52001224-MARS’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWN52001461’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWN52003306’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWN52003648’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWN52006349’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWN52008669.kul-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWSTC000564.kul-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWSTC000564_1’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWVD0000139’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWVD0000289’ is reserved for jobs with matching label expression
+12:10:54  ‘MYKULWVD0001149’ is reserved for jobs with matching label expression
+12:10:54  ‘MyNet windows’ is reserved for jobs with matching label expression
+12:10:54  ‘PeP_CDex’ is reserved for jobs with matching label expression
+12:10:54  ‘RPA_pipeline-third’ is reserved for jobs with matching label expression
+12:10:54  ‘RPA_pipeline_Secondary’ is reserved for jobs with matching label expression
+12:10:54  ‘RPA_pipeline’ is reserved for jobs with matching label expression
+12:10:54  ‘TestFactory’ is reserved for jobs with matching label expression
+12:10:54  ‘Vista_TA_Annam’ is reserved for jobs with matching label expression
+12:10:54  ‘czcholstc000819’ is reserved for jobs with matching label expression
+12:10:54  ‘czcholstc000958.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘czcholstc002030’ is reserved for jobs with matching label expression
+12:10:54  ‘czcholstc002298-JiCo Automation’ is reserved for jobs with matching label expression
+12:10:54  ‘czcholstc003391.prg-dc.dhl.com-MeinVertrieb’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowsint2008-M1.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowsint2008-M2.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowsint2008.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowsint833-mynet’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowspc000436’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowspc000455.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowspc001121’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowstc000238.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowstc000451.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowstc000598.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowstc000798’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowstc000852-INC38411957’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowstc000898.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowstc000918’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowstc000951’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowstc000967.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowstc002221.prg-dc.dhl.com-poststation’ is reserved for jobs with matching label expression
+12:10:54  ‘czchowstc002448.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘czstlwspc000090.prg-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘data_lake_jenkins_node’ is reserved for jobs with matching label expression
+12:10:54  ‘ecommerce us’ is reserved for jobs with matching label expression
+12:10:54  ‘ecs_cdex’ is reserved for jobs with matching label expression
+12:10:54  ‘electron’ is reserved for jobs with matching label expression
+12:10:54  ‘esecure_uft’ is reserved for jobs with matching label expression
+12:10:54  ‘fmm-slave’ is reserved for jobs with matching label expression
+12:10:54  ‘fortify_2943’ is reserved for jobs with matching label expression
+12:10:54  ‘fortify_abq_czcholstc001869’ is reserved for jobs with matching label expression
+12:10:54  ‘fortify_agent’ is reserved for jobs with matching label expression
+12:10:54  ‘fortify_win_agent’ is reserved for jobs with matching label expression
+12:10:54  ‘gRate-czchowstc000092’ is reserved for jobs with matching label expression
+12:10:54  ‘gapi-amp-amp-automation-build-6975-s87b4-bhzq4-16ds6’ is reserved for jobs with matching label expression
+12:10:54  ‘jenkins-slave-prg-m9b5j’ is offline
+12:10:54  ‘jenkins-slave-prg-xsss4’ is offline
+12:10:54  ‘myNet node’ is reserved for jobs with matching label expression
+12:10:54  ‘mykulwn5012880.kul-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘mykulwn52001196.kul-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘mykulwn52002914.kul-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘mykulwstc000021-testfactoryRIT’ is reserved for jobs with matching label expression
+12:10:54  ‘mykulwstc000092.kul-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘mykulwstc000151.kul-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘mykulwstc000165.kul-dc.dhl.com’ is reserved for jobs with matching label expression
+12:10:54  ‘mykulwstc000574-DHLeAutomation_1’ is reserved for jobs with matching label expression
+12:10:54  ‘mykulwstc000574-DHLeAutomation’ is reserved for jobs with matching label expression
+12:10:54  ‘pat-esm-build czchowstc000087’ is reserved for jobs with matching label expression
+12:10:54  ‘windows_prg_agent’ is reserved for jobs with matching label expression
+12:10:54  ‘xa032ws11000236’ is reserved for jobs with matching label expression
+12:10:55  Agent jenkins-slave-prg-m9b5j is provisioned from template jenkins-slave-prg
+12:10:55  ---
+12:10:55  apiVersion: "v1"
+12:10:55  kind: "Pod"
+12:10:55  metadata:
+12:10:55    labels:
+12:10:55      jenkins: "slave"
+12:10:55      jenkins/label-digest: "604dfd335b4895531b8f65c23e286f127f99e18d"
+12:10:55      jenkins/label: "prg_openshift-prg4_openshift4-prg_openshift3-prg_openshift-prg3"
+12:10:55    name: "jenkins-slave-prg-m9b5j"
+12:10:55    namespace: "its-jenkins-prod"
+12:10:55  spec:
+12:10:55    containers:
+12:10:55    - args:
+12:10:55      - "********"
+12:10:55      - "jenkins-slave-prg-m9b5j"
+12:10:55      env:
+12:10:55      - name: "JENKINS_SECRET"
+12:10:55        value: "********"
+12:10:55      - name: "http_proxy"
+12:10:55        value: "http://b2b-http.dhl.com:8080"
+12:10:55      - name: "no_proxy"
+12:10:55        value: ".dhl.com,.deutschepost.de"
+12:10:55      - name: "NO_PROXY"
+12:10:55        value: ".dhl.com,.deutschepost.de"
+12:10:55      - name: "SKIP_NO_PROXY_DEFAULT"
+12:10:55        value: "true"
+12:10:55      - name: "https_proxy"
+12:10:55        value: "http://b2b-http.dhl.com:8080"
+12:10:55      - name: "TZ"
+12:10:55        value: "Europe/Prague"
+12:10:55      - name: "JENKINS_AGENT_WORKDIR"
+12:10:55        value: "/var/lib/jenkins"
+12:10:55      - name: "ANDROID_HOME"
+12:10:55        value: "/var/lib/jenkins/tools/android-sdk"
+12:10:55      - name: "JENKINS_AGENT_NAME"
+12:10:55        value: "jenkins-slave-prg-m9b5j"
+12:10:55      - name: "JAVA_TOOL_OPTIONS"
+12:10:55        value: "-XX:+UnlockExperimentalVMOptions -Dsun.zip.disableMemoryMapping=true"
+12:10:55      - name: "JAVA_COMMAND"
+12:10:55        value: "/usr/lib/jvm/jre-11/bin/java"
+12:10:55      - name: "ANG"
+12:10:55        value: "en_US.UTF-8"
+12:10:55      - name: "JENKINS_NAME"
+12:10:55        value: "jenkins-slave-prg-m9b5j"
+12:10:55      - name: "JENKINS_URL"
+12:10:55        value: "https://jenkins.dhl.com/"
+12:10:55      image: "docker.artifactory.dhl.com/jenkins/slave:openshift4"
+12:10:55      imagePullPolicy: "Always"
+12:10:55      name: "jnlp"
+12:10:55      resources:
+12:10:55        limits:
+12:10:55          memory: "2Gi"
+12:10:55          cpu: "1"
+12:10:55        requests:
+12:10:55          memory: "512Mi"
+12:10:55          cpu: "500m"
+12:10:55      securityContext:
+12:10:55        privileged: false
+12:10:55        runAsGroup: 1000
+12:10:55        runAsUser: 1000
+12:10:55      tty: true
+12:10:55      volumeMounts:
+12:10:55      - mountPath: "/home/multicontainer"
+12:10:55        name: "volume-0"
+12:10:55        readOnly: false
+12:10:55      - mountPath: "/data"
+12:10:55        name: "volume-1"
+12:10:55        readOnly: false
+12:10:55      - mountPath: "/var/lib/jenkins"
+12:10:55        name: "workspace-volume"
+12:10:55        readOnly: false
+12:10:55      workingDir: "/var/lib/jenkins"
+12:10:55    hostNetwork: false
+12:10:55    imagePullSecrets:
+12:10:55    - name: "artifactory"
+12:10:55    nodeSelector:
+12:10:55      kubernetes.io/os: "linux"
+12:10:55    restartPolicy: "Never"
+12:10:55    securityContext:
+12:10:55      runAsGroup: 0
+12:10:55      runAsUser: 1000
+12:10:55    volumes:
+12:10:55    - emptyDir:
+12:10:55        medium: ""
+12:10:55      name: "volume-0"
+12:10:55    - name: "volume-1"
+12:10:55      persistentVolumeClaim:
+12:10:55        claimName: "data"
+12:10:55        readOnly: false
+12:10:55    - emptyDir:
+12:10:55        medium: ""
+12:10:55      name: "workspace-volume"
+12:10:55  
+12:10:55  Running on jenkins-slave-prg-m9b5j in /var/lib/jenkins/workspace/BlueDart/EnterprisePortal/Echofeel-DHL-Sync
+12:10:55  [Pipeline] {
+12:10:55  [Pipeline] }
+12:10:55  [Pipeline] // node
+12:10:55  [Pipeline] End of Pipeline
+12:10:55  java.lang.NullPointerException: Cannot invoke method split() on null object
+12:10:55  	at org.codehaus.groovy.runtime.NullObject.invokeMethod(NullObject.java:91)
+12:10:55  	at org.codehaus.groovy.runtime.callsite.PogoMetaClassSite.call(PogoMetaClassSite.java:47)
+12:10:55  	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:47)
+12:10:55  	at org.codehaus.groovy.runtime.callsite.NullCallSite.call(NullCallSite.java:34)
+12:10:55  	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:47)
+12:10:55  	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:116)
+12:10:55  	at org.kohsuke.groovy.sandbox.impl.Checker$1.call(Checker.java:180)
+12:10:55  	at org.kohsuke.groovy.sandbox.impl.Checker.checkedCall(Checker.java:182)
+12:10:55  	at com.cloudbees.groovy.cps.sandbox.SandboxInvoker.methodCall(SandboxInvoker.java:17)
+12:10:55  	at WorkflowScript.run(WorkflowScript:3)
+12:10:55  	at ___cps.transform___(Native Method)
+12:10:55  	at com.cloudbees.groovy.cps.impl.ContinuationGroup.methodCall(ContinuationGroup.java:90)
+12:10:55  	at com.cloudbees.groovy.cps.impl.FunctionCallBlock$ContinuationImpl.dispatchOrArg(FunctionCallBlock.java:116)
+12:10:55  	at com.cloudbees.groovy.cps.impl.FunctionCallBlock$ContinuationImpl.fixArg(FunctionCallBlock.java:85)
+12:10:55  	at jdk.internal.reflect.GeneratedMethodAccessor566.invoke(Unknown Source)
+12:10:55  	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+12:10:55  	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+12:10:55  	at com.cloudbees.groovy.cps.impl.ContinuationPtr$ContinuationImpl.receive(ContinuationPtr.java:72)
+12:10:55  	at com.cloudbees.groovy.cps.impl.ConstantBlock.eval(ConstantBlock.java:21)
+12:10:55  	at com.cloudbees.groovy.cps.Next.step(Next.java:83)
+12:10:55  	at com.cloudbees.groovy.cps.Continuable$1.call(Continuable.java:152)
+12:10:55  	at com.cloudbees.groovy.cps.Continuable$1.call(Continuable.java:146)
+12:10:55  	at org.codehaus.groovy.runtime.GroovyCategorySupport$ThreadCategoryInfo.use(GroovyCategorySupport.java:136)
+12:10:55  	at org.codehaus.groovy.runtime.GroovyCategorySupport.use(GroovyCategorySupport.java:275)
+12:10:55  	at com.cloudbees.groovy.cps.Continuable.run0(Continuable.java:146)
+12:10:55  	at org.jenkinsci.plugins.workflow.cps.SandboxContinuable.access$001(SandboxContinuable.java:18)
+12:10:55  	at org.jenkinsci.plugins.workflow.cps.SandboxContinuable.run0(SandboxContinuable.java:51)
+12:10:55  	at org.jenkinsci.plugins.workflow.cps.CpsThread.runNextChunk(CpsThread.java:187)
+12:10:55  	at org.jenkinsci.plugins.workflow.cps.CpsThreadGroup.run(CpsThreadGroup.java:420)
+12:10:55  	at org.jenkinsci.plugins.workflow.cps.CpsThreadGroup$2.call(CpsThreadGroup.java:330)
+12:10:55  	at org.jenkinsci.plugins.workflow.cps.CpsThreadGroup$2.call(CpsThreadGroup.java:294)
+12:10:55  	at org.jenkinsci.plugins.workflow.cps.CpsVmExecutorService$2.call(CpsVmExecutorService.java:67)
+12:10:55  	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+12:10:55  	at hudson.remoting.SingleLaneExecutorService$1.run(SingleLaneExecutorService.java:139)
+12:10:55  	at jenkins.util.ContextResettingExecutorService$1.run(ContextResettingExecutorService.java:28)
+12:10:55  	at jenkins.security.ImpersonatingExecutorService$1.run(ImpersonatingExecutorService.java:68)
+12:10:55  	at jenkins.util.ErrorLoggingExecutorService.lambda$wrap$0(ErrorLoggingExecutorService.java:51)
+12:10:55  	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+12:10:55  	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+12:10:55  	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+12:10:55  	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+12:10:55  	at java.base/java.lang.Thread.run(Thread.java:829)
+12:10:55  Finished: FAILURE
